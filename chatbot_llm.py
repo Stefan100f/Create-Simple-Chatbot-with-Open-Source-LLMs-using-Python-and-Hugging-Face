@@ -69,8 +69,5 @@ while True:
   
 
 
-  print(f"Bot: {response}\n")
-
-  messages.append({"role": "assistant", "content": response}) 
 
 
